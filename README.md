@@ -1,6 +1,6 @@
 # Learning PyTorch from YT Playlist by CampusX
 
-This repo contains my code and notes while learning **PyTorch** from the videos given below:
+This repo contains my code and notes while learning **PyTorch** from the videos/blogs/articles given below:
 
 [CampusX YouTube Playlist](https://youtu.be/QZsguRbcOBM?feature=shared).
 
