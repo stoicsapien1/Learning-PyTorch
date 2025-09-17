@@ -8,6 +8,8 @@ This repo contains my code and notes while learning **PyTorch** from the videos/
 
 [Inheritance](https://youtu.be/GIchMiGRZbE?feature=shared)
 
+[Fashion MNIST Dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist/code)
+
 ## Contents
 - Practice notebooks
 - Experiments with PyTorch
